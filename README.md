@@ -67,6 +67,7 @@ listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores PHP](https://github.com/phpdevbr/vagas)
 - [Vagas para desenvolvedores Python](https://pyjobs.com.br)
 - [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
+- [Vagas para desenvolvedores React.js](https://github.com/react.j-br/vagas)
 - [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
 - [Vagas para Flutter](https://github.com/flutter-brazil/vagas)
 - [Vagas para React/React Native](https://github.com/react-brasil/vagas)
